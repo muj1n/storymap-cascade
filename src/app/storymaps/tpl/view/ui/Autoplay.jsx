@@ -9,7 +9,7 @@ import {} from 'lib-build/css!lib/seiyria-bootstrap-slider/dist/css/bootstrap-sl
 import has from 'dojo/has';
 
 const SCROLL_DURATION = 200;
-const SCROLL_AMOUNT_BASE_UNIT = 12;
+const SCROLL_AMOUNT_BASE_UNIT = 5;
 const BTN_FADE_DELAY = 3000;
 
 const END_STORY_DELAY_BOTTOM = 2000;
